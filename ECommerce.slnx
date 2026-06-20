@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="455b6125-44f0-4ba0-b637-641d654cd5a6" />
+  <Project Path="Contracts/Contracts.csproj" Id="a83849bc-3fb5-4906-8ee2-cbd0c133328e" />
+  <Project Path="Domain/Domain.csproj" Id="968b55b0-6167-40e9-884d-412ae76845ed" />
+  <Project Path="ECommerce.Api/ECommerce.Api.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="18a98305-eea7-4673-a293-eef689d9c633" />
+</Solution>
